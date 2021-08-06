@@ -2,18 +2,9 @@
   <div class="container">
     <h1>slot Human</h1>
     <div class="slot-example">
-      <Human>
-        <div>😘</div>
-        <div>🥈</div>
-      </Human>
-      <Human>
-        <div>😇</div>
-        <div>🥇</div>
-      </Human>
-      <Human>
-        <div>😊</div>
-        <div>🥉</div>
-      </Human>
+      <Human>😘</Human>
+      <Human>😇</Human>
+      <Human>😊</Human>
     </div>
     <h1>props Human</h1>
     <div class="props-example">
